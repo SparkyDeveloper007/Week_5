@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
-namespace TempManager.Models
+namespace CH_11_TempManager.Models
 {
     public class TempManagerContext : DbContext
     {

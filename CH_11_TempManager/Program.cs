@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using TempManager.Models;
+using CH_11_TempManager.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 

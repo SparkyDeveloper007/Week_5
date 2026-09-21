@@ -3144,11 +3144,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/TempManager/TempManager.csproj",
-      "projectName": "TempManager",
-      "projectPath": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/TempManager/TempManager.csproj",
+      "projectUniqueName": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/CH_11_TempManager/CH_11_TempManager.csproj",
+      "projectName": "CH_11_TempManager",
+      "projectPath": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/CH_11_TempManager/CH_11_TempManager.csproj",
       "packagesPath": "/Users/curtisfisher/.nuget/packages/",
-      "outputPath": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/TempManager/obj/",
+      "outputPath": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/CH_11_TempManager/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/curtisfisher/.nuget/NuGet/NuGet.Config"

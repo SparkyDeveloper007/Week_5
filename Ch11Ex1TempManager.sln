@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempManager", "TempManager\TempManager.csproj", "{3B2D9572-AD91-43AE-9732-167883058551}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CH_11_TempManager", "CH_11_TempManager\CH_11_TempManager.csproj", "{3B2D9572-AD91-43AE-9732-167883058551}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "Ch10Ex1ToDoList\ToDoList\ToDoList.csproj", "{0199A5BF-5C73-4908-AD1B-C0D90247ED0D}"
 EndProject

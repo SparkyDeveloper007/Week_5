@@ -1,8 +1,8 @@
-using TempManager.Models;
+using CH_11_TempManager.Models;
 using Microsoft.AspNetCore.Mvc;
 
 
-namespace TempManager.Controllers;
+namespace CH_11_TempManager.Controllers;
 
 public class ValidationController : Controller
 {

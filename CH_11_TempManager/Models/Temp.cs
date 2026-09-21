@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using System.Runtime.InteropServices.JavaScript;
 using Microsoft.AspNetCore.Mvc;
 
-namespace TempManager.Models
+namespace CH_11_TempManager.Models
 {
     public class Temp
     {

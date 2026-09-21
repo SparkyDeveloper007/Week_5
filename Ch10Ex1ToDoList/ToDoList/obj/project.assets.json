@@ -5049,11 +5049,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/curtisfisher/Downloads/Ch10Ex1ToDoList/ToDoList/ToDoList.csproj",
+      "projectUniqueName": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/Ch10Ex1ToDoList/ToDoList/ToDoList.csproj",
       "projectName": "ToDoList",
-      "projectPath": "/Users/curtisfisher/Downloads/Ch10Ex1ToDoList/ToDoList/ToDoList.csproj",
+      "projectPath": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/Ch10Ex1ToDoList/ToDoList/ToDoList.csproj",
       "packagesPath": "/Users/curtisfisher/.nuget/packages/",
-      "outputPath": "/Users/curtisfisher/Downloads/Ch10Ex1ToDoList/ToDoList/obj/",
+      "outputPath": "/Users/curtisfisher/Downloads/Ch11Ex1TempManager/Ch10Ex1ToDoList/ToDoList/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/curtisfisher/.nuget/NuGet/NuGet.Config"

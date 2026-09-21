@@ -1,8 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Linq;
-using TempManager.Models;
+using CH_11_TempManager.Models;
 
-namespace TempManager.Controllers
+namespace CH_11_TempManager.Controllers
 {
     public class HomeController : Controller
     {
