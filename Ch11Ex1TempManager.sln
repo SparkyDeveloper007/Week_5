@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempManager", "TempManager\TempManager.csproj", "{3B2D9572-AD91-43AE-9732-167883058551}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "Ch10Ex1ToDoList\ToDoList\ToDoList.csproj", "{0199A5BF-5C73-4908-AD1B-C0D90247ED0D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{3B2D9572-AD91-43AE-9732-167883058551}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3B2D9572-AD91-43AE-9732-167883058551}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3B2D9572-AD91-43AE-9732-167883058551}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0199A5BF-5C73-4908-AD1B-C0D90247ED0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0199A5BF-5C73-4908-AD1B-C0D90247ED0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0199A5BF-5C73-4908-AD1B-C0D90247ED0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0199A5BF-5C73-4908-AD1B-C0D90247ED0D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
